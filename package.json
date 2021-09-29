@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amaljosea/portfolio.git"
+    "url": "git+https://github.com/Adershbe/portfolio.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/amaljosea/portfolio/issues"
+    "url": "https://github.com/Adershbe/portfolio/issues"
   },
-  "homepage": "https://github.com/amaljosea/portfolio#readme"
+  "homepage": "https://github.com/Adershbe/portfolio#readme"
 }
